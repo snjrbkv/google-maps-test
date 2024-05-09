@@ -13,6 +13,9 @@ const Map = () => {
     lng: -74.0060
   };
 
+
+
+  
   const defaultZoom = 4;
 
   const [markerPosition, setMarkerPosition] = useState(null);
